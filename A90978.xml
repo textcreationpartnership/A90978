@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands golden legacy: or, A brief description of the manifold mercies and blessings which the Lord hath bestowed upon our sinful nation. Set forth to the end that all people that reads or hears it, may repent them of their sins, and be thankful to the Lord for his benefits. Here is also a brief description of Jerusalems sorrows and tronbles, [sic] which is worthy to be kept in memory. / Written by Laurence Price. 1656.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90978</idno>
+            <idno type="STC">Wing P3359</idno>
+            <idno type="STC">Thomason E1648_3</idno>
+            <idno type="STC">ESTC R209101</idno>
+            <idno type="EEBO-CITATION">99868001</idno>
+            <idno type="PROQUEST">99868001</idno>
+            <idno type="VID">170213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1648[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands golden legacy: or, A brief description of the manifold mercies and blessings which the Lord hath bestowed upon our sinful nation. Set forth to the end that all people that reads or hears it, may repent them of their sins, and be thankful to the Lord for his benefits. Here is also a brief description of Jerusalems sorrows and tronbles, [sic] which is worthy to be kept in memory. / Written by Laurence Price. 1656.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Jenkins next door to the Eagle &amp; Child in Giltspur-street.,</publisher>
+                  <pubPlace>Loudon, [sic] :</pubPlace>
+                  <date>[1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>With title page woodcut representing Jerusalem.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Jerusalem --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170213:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>Englands Golden LEGACY: OR, A brief deſcription of the manifold mer<g ref="char:EOLhyphen"/>cies and bleſſings which the Lord hath beſtowed upon our ſinful Nation. Set forth to the end that all people that reads or hears it, may repent them of their ſins, and be thankful to the Lord for his benefits. Here is alſo a brief deſcription of Je<g ref="char:EOLhyphen"/>ruſalems ſorrows and troubles, which is worthy to be kept in memory.</p>
+            <p>Written by Laurence Price. 1656.</p>
+            <figure>
+               <head>Ieruſalem</head>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. J<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> next door to the Eagle &amp; Child in Giltſpur-ſtreet.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170213:2"/>
+            <!-- PDF PAGE 110 -->
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:170213:2"/>
+            <!-- PDF PAGE 110 -->
+            <head>The Epiſtle to all Chriſtians.</head>
+            <p>BEloved friends the matter contained in this Book is to give war<g ref="char:EOLhyphen"/>ning to the world, that e<g ref="char:EOLhyphen"/>very man may take heed of that fearful ſin of In<g ref="char:EOLhyphen"/>gratitude, &amp; to that pur<g ref="char:EOLhyphen"/>poſe I have here for a pre<g ref="char:EOLunhyphen"/>ſident laid open the bit<g ref="char:EOLhyphen"/>ter calamities and extre<g ref="char:EOLhyphen"/>mities of that glorious &amp; unparaleld City of Jeru<g ref="char:EOLhyphen"/>ſalem,
+<pb facs="tcp:170213:3"/>
+               <!-- PDF PAGE 111 -->which was once known to be the mirrour of the whole world: but at laſt brought to utter ruine and deſolation, by their unthankfulneſs and diſobedience to their Lord and Savior. So ho<g ref="char:EOLhyphen"/>ping that you will con<g ref="char:EOLhyphen"/>ſider, and lay it to heart, to foreſee the dangers to come, I remaine your friend and Servant ſo long as you ſerve God.</p>
+            <closer>
+               <signed>Laurence Price.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:170213:3"/>
+            <!-- PDF PAGE 111 -->
+            <head>ENGLANDS Golden Legacy.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. How Chriſt foretold the miſeries that would come upon <hi>Jeruſalem,</hi> is plain<g ref="char:EOLhyphen"/>ly here ſet down as an example for us to take warning by.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Ur bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our Ieſus Chriſt, when he approached neer unto the fair and goodly City of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> he moſt bitterly wept and lamented over it; and know<g ref="char:EOLhyphen"/>ing of the manifold miſeries which would after his death fall upon the Ci<g ref="char:EOLhyphen"/>ty, and the Inhabitants thereof; and therewithall being in a great Paſſion, with a lowd voyce he cryed out in this manner, ſaying, <hi>If thou hadſt known, even thou at leſt thoſe things which be<g ref="char:EOLhyphen"/>long
+<pb n="6" facs="tcp:170213:4"/>
+                     <!-- PDF PAGE 112 -->unto thy peace, even in this thy day but now are they hid from thine eyes: For the dayes ſhall come upon thee that thine enemies ſhall caſt a trench about thee, and, compaſs thee round, and keep thee in on every ſide, and make thee even with the ground, and thy children which are in thee, and they ſhall not leave in thee one ſtone upon another, becauſe thou knoweſt not the time of the viſitation, Luke 19.42, 43. &amp; 44.</hi> thoſe words ſo ſpoken by our Savior was heard by many of the Iews, yet few believed, and none regarded his ſay<g ref="char:EOLhyphen"/>ings; but while he wept for them they laught at him and his diſciples, and although he had before ſhewn many wonders, and done many miracles in all the Countries round about as was very well known to them that were then in place: He made the deaf to hear: the dumb to ſpeak: the lame to go: the blind to ſee: cleanſed the Le<g ref="char:EOLhyphen"/>pers, and raiſed up the dead from the grave, <hi>Ioh. 11.44.</hi> Yet would not all theſe miracles, bring the ſtiff-necked Iews into a right belief; but inſtead of giving God the praiſe, they ſought the death of him that came into the world
+<pb n="7" facs="tcp:170213:4"/>
+                  <!-- PDF PAGE 112 -->to cure their bodies, and to ſave their ſouls from everlaſting damnation.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. Of the cruelty of the Jewes, and how bloodily they dealt with our Savior Chriſt, was as followeth.</head>
+               <p>AND it came to paſs afterwards he himſelf went throughout every City and Village preaching and ſhew<g ref="char:EOLhyphen"/>ing the glad tidings of ſalvation, and of the Kingdom of God, and his twelve diſciples were with him, <hi>Luke 8.1.</hi> Caſting out of devils, and healing all diſeaſes: yet was the hatred of the Iews ſo much they could never let him reſt at quiet: for why the Scribes and Phariſees of the people conſpired his death; and the High Prieſts conſulted to deprive him of his life, and to that end and purpoſe came falſe witneſſes to accuſe him of that which he never did, as you may read <hi>Matth. 26.</hi> And when <hi>Judas</hi> had betrayed him into their hands, they dealt with him ſo wickedly that the like was never known before: No Pen can write, no tongue can exrreſſe, nor no heart of man can thinke what extream ſorrows, and wofull bickerments he went through,
+<pb n="9" facs="tcp:170213:5"/>
+                  <!-- PDF PAGE 113 -->They took him and bound him, they ſcourged him and whipt him, they buf<g ref="char:EOLhyphen"/>feted and ſm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te him, they ſpit in his face, they crown'd him with a wreath of pricking thorns, and they made him in diſgrace to carry his own Croſs to the place of Execution, where they moſt bloodily nailed him through both his hands, and feet, between two ſinful Malefactors; and laſt of all they gave him vinegar and gall to drink, <hi>Mark 27.34.</hi> But for all thoſe bitter tor<g ref="char:EOLhyphen"/>ments and ſufferings of our Sauiour Ieſus Chriſt, he was never heard to give them ſo much as one angry word; but with milde and gentle words he prayed for his enemies, ſaying, <hi>Father forgive them, for they know not what they do, Joh. 18.32.</hi> So, crying with a loud voice, <hi>Father into thy hands I commend my Spirit,</hi> he gave up the Ghoſt: and when they had ſo murder<g ref="char:EOLhyphen"/>ed the Lord of Life, there was imme<g ref="char:EOLhyphen"/>diatly after ſuch a horible unexpected Eclipſe of the Sun, that thers was a darkneſs over all the Land; and the vail of the Temple rent from the top to the bottom, and there was alſo a moſt terible earth-quake which rent the
+<pb n="8" facs="tcp:170213:5"/>
+                  <!-- PDF PAGE 113 -->vail of the Temple from the top to the bottom, <hi>Mark 15 38.</hi> And then the Centurion and others that beheld it, which had no bolief in them before, did both confeſs and ſay, <hi>Verily, and truly, this was the true Son of the living God, Mark 15.40.</hi>
+               </p>
+               <p>One thing more to be conſidered of is this, that whilſt our Savior was at the Bar of Arraignment, every one was againſt him and no man pittied his ſor<g ref="char:EOLhyphen"/>rows, but only the Iudge <hi>Pilate,</hi> which was then ſet upon life and death, whoſe conſcience was ſorely pricked when he was to paſſe the Sentence of death up<g ref="char:EOLhyphen"/>on Chriſt, and therefore he took wa<g ref="char:EOLhyphen"/>ter and waſhed his hands; ſaying, <hi>I am guiltleſs of the ſhedding of the blood of this innocent man; whereupon they cryed out all with one conſent, Away with him, crucifie him; and let his blood be upon us, and upon our children for ever, Mark 15.13, 14.</hi> A heavy curſe God knows did the Iews wiſh to fall upon themſelvs; and I pray that Chri<g ref="char:EOLhyphen"/>ſtians may never do the like evil, nor know the like ſorrow. And what become of them after the Paſſion of Chriſt, you ſhall hear in this following Chapter.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="10" facs="tcp:170213:6"/>
+               <!-- PDF PAGE 114 -->
+               <head>CHAP. III. Of the grievous Afflictions and miſeries that befell the Jewes, after they had crucified the Lord of Life: And of their deſolation, and total overthrow and deſtruction is here ſet down for our example.</head>
+               <p>NO ſooner was our Savior Chriſt out of ſight, but he was alſo out of mind; for the <hi>Jewes</hi> thought they had done well in p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ting him to death, and never took ſorrow till it was too late, they eat drank and were merry; they gave their minds to all manner of voluptuous<g ref="char:punc">▪</g> living as carouſing in Ale<g ref="char:EOLhyphen"/>houſes and Taverns, Swearing and Blaſpheaming, wantonneſs and cham<g ref="char:EOLhyphen"/>bering, and what not.</p>
+               <p>But with the old Proverb, every ſweet will have his ſower: So tared it with the Iewes; for in the middeſt of all their pleaſure, they beheld moſt ſtrange and wonderfull Viſions and Apparitions in the A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re; one while there ſeemed to be a mighty Hoſt of warlike Souldiers a fighting one a<g ref="char:EOLhyphen"/>gainſt
+<pb n="11" facs="tcp:170213:6"/>
+                  <!-- PDF PAGE 114 -->the other. Some times there appeared a ſtrange &amp; prodigeous blaz<g ref="char:EOLhyphen"/>ing Star, ſhining more bright then the Sun in his full glory: &amp; for a long time together there was every day ſeene a fierce fiery flaming Sword, hanging right over the ſtately City of <hi>Jeruſalem</hi> with the point downwards, which brought ſuch amazement through all parts of the City, and Countrey round about, that the People were (many of them) at their wits end, not knowing what were beſt for them to do.</p>
+               <p>And in theſe ſad deſtracted times, ſome hanged themſelves, ſome drown<g ref="char:EOLhyphen"/>ed themſelves, ſome cut their owne throats, all which was done for want of ſerving of God; as many have late<g ref="char:EOLhyphen"/>ly done in the City of <hi>London,</hi> and in other parts of <hi>England,</hi> the more is the pitty.</p>
+               <p>But to goe forward with my Diſ<g ref="char:EOLhyphen"/>courſe, it is not one Swallow that makes a Summer? neither does one evill goe alone by it ſelfe; for as the waves of the Sea in a tem<g ref="char:EOLhyphen"/>peſtious Storme, drives and beats one upon another along with the voiolence of the wind, even ſo doth
+<pb n="12" facs="tcp:170213:7"/>
+                  <!-- PDF PAGE 115 -->vexations, croſſes and troubles, one come on the neck of another when men have offended God: For in the time that the Iews were in this ſad deſtra<g ref="char:EOLhyphen"/>ction, then came a Meſſenger of ſor<g ref="char:EOLhyphen"/>row into the City, to bring them ti<g ref="char:EOLhyphen"/>dings of <hi>Titus Veſpatians</hi> approach with a mighty great Army of valiant Souldiers, which had vowed to ſcale the ſtately walls of <hi>Jeruſalem,</hi> and make their buildings level with the ground.</p>
+               <p>Whereupon the Governors of the Iews took courage upon them, and made this Reply, Let not that proud Emperour <hi>Veſpatian</hi> think but that we ſcorn to be ſubject to, or bow our necks to his yoke. We have quoth they an hundred thouſand luſty fighting men: we have plenty of corn and other pro<g ref="char:EOLhyphen"/>viſion, enough to ſerve us for twenty yeers. We have above a thouſand ſtately Towers of defence to ſave us from the ſlaughter of our enemies if need require. Why then, quoth they, ſhould we be danuted, or ſtand in fear of any power that can come againſt us.</p>
+               <p>Thus while the Iews ſlattered
+<pb n="13" facs="tcp:170213:7"/>
+                  <!-- PDF PAGE 115 -->themſelves within the walls of the City, thinking themſelves ſecure, the valiant Emperour <hi>Titus</hi> incamped, and beſieged the City round about, where they lay ſo long, doing ſpoil and cut<g ref="char:EOLhyphen"/>ting up the water pipes; and many other ſuch like miſchiefs that is t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o tedious here to be told.</p>
+               <p>But to be brief, this it was: That the Iews that were within the City fell out amongſt themſelves, and divi<g ref="char:EOLhyphen"/>ded themſelves into three parts, where they made more havock and ſlaughter one of another, then all the enemies that ever came againſt them could do. God grant that the like may never be done in <hi>England;</hi> for there were peo<g ref="char:EOLhyphen"/>ple all together by the ears: One neighbor killing and murdering one another. The Son had no compaſſion on the Father, and the daughter ripping up the bowels of the mother. Souldiers from place to place with drawn ſwords in their hands, run up and down not caring who they killed; for they neither ſpared old nor young, friend nor enemy; inſomuch the chan<g ref="char:EOLhyphen"/>nels run down with blood, as if it had been water: beſides all this the dead
+<pb n="14" facs="tcp:170213:8"/>
+                  <!-- PDF PAGE 116 -->corps of the People lay in heaps about the ſtreets, that they ſtun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e above the ground for want of buriall: and with the noyſumnes thereof there bred ſuch an Infection amongſt them that hun<g ref="char:EOLhyphen"/>dreds of thouſands were quite eaten up and deſtroyed with the grievious Plague of peſtilence: but the laſt pu<g ref="char:EOLhyphen"/>niſhment they had was the worſt of all, as you ſhall preſantly heare.</p>
+               <p>There was two ſeditious Captains amongſt the Iews, who in one night ſet on fire, and burned up all the Pro<g ref="char:EOLhyphen"/>viſion which was in the City; where<g ref="char:EOLhyphen"/>upon there came ſuch a great Famine in the City, that they were at laſt in<g ref="char:EOLhyphen"/>forc'd to féed upon Dogs, and Cats, or any other ſtinking carion, nay worſe then that, ſome were glad to eat their own excrements, &amp; ſome Mothers Roſt<g ref="char:EOLhyphen"/>ed &amp; eat the fleſh of their own children, &amp; when it was too late, they that were left alive delivered up the City, and themſelves to the mercy of the enemy, who dealt with them according as Chriſt had foretold<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for they left not one ſtone upon another that would doe them any good.</p>
+               <p>Thus much have I ſpoken for a
+<pb n="15" facs="tcp:170213:8"/>
+                  <!-- PDF PAGE 116 -->truth, conſerning the deſtruction of the Iews, and their City; having a teſte<g ref="char:EOLhyphen"/>mony for the ſame, bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h from the Scriptures, &amp; other ſufficient Authors. And I pray to God to give a bleſſing to all them that hears, and reads the word of God? ſo that they make bet<g ref="char:EOLhyphen"/>ter uſe of their wayes and actions, then the Iews did: To which let all true Chriſtians ſay Amen.</p>
+               <p>And now before I conclude, I deſire you all that are in preſence to take good heed, and beare in mind this laſt chapter of my Booke, which is called <hi>Englands Golden Legacy.</hi>
+               </p>
+               <p>The Legacies, and Bleſſings that the Lord hath beſtowed are ſo many, that they cannot all be unmbred: but thoſe which we every day &amp; minute make uſe off, we may beſt remember; as namely the light of the Goſpell to eluminate our ſoules, Gods holy word &amp; ſpirit to aſſiſt us in our wayes, &amp; actions; the Scriptures interpreted and made plaine unto us, and Expounded in our Language? theſe things if we purſue and make good uſe off wee can never doe amiſs.</p>
+               <pb n="16" facs="tcp:170213:9"/>
+               <!-- PDF PAGE 117 -->
+               <p>Beſides this we have praiſed be God, all manner of bodily ſuſtenance in great plenty, and at a cheap ſate; as food for the body, and rayment for the back; only Trading is ſomething dead, and money hard to come by for this preſent, but I would deſire every one to wait with patience till better times come, and let us not in any caſe murmur againſt the Lord, nor pro<g ref="char:EOLhyphen"/>voke him to anger, leaſt the ſweet and happy Legacy and bleſſing which we now enjoy ſhould be turned into a Curſe as the Iews was; and ſince we bare, and have the name of <hi>Chri<g ref="char:EOLhyphen"/>ſtians,</hi> I would have all men and wo<g ref="char:EOLhyphen"/>men to carry themſelves li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> laying a part all hatred, ſpight, envy and malice; all drunkeneſſe, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring, ſwearing, and curſing; all lying, backbiting, and ſaithfully to learn and labour, and to ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e uſe of our Lord and Saviour Ieſus Chriſt his new Commanbment, which is to love one another.</p>
+               <closer>
+                  <signed>L. P.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
